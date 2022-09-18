@@ -57,13 +57,13 @@ body{
 }
 
 @font-face{
-	font-family: ALBA;
-	src: url(ALBA.ttf);
+	font-family: 'ALBA';
+	src: url(ALBA.TTF);
 }
 
 .header{
 	font-size: 35px;
-	font-family: Lucida Handwriting;
+	font-family: ALBA;
 	color: black;
 	text-align: center;
 	padding: 10px;
