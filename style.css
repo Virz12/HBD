@@ -56,14 +56,11 @@ body{
 	box-sizing: border-box;
 }
 
-@font-face{
-	font-family: 'ALBA';
-	src: url(ALBA.TTF);
-}
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
 .header{
 	font-size: 35px;
-	font-family: ALBA;
+	font-family: 'Courgette', cursive;
 	color: black;
 	text-align: center;
 	padding: 10px;
